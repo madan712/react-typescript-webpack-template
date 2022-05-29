@@ -1,1 +1,1 @@
-# React + typescript + webpack + jest tempalte
+# React + typescript + webpack + jest template
